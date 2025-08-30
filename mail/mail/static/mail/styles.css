@@ -1,0 +1,9 @@
+textarea {
+    min-height: 400px;
+}
+
+.one-line {
+    display: flex;
+    align-item: center;
+    gap: 10px;
+}
