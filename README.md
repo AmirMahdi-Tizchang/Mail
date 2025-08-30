@@ -76,8 +76,7 @@ mail/
 |── project3/        # project's Settings
 ├── static/          # CSS, JS
 ├── templates/       # HTML templates
-├── manage.py
-
+└──manage.py
 docs/            # Demo GIFs, screenshots
 README.md
 requirements.txt
