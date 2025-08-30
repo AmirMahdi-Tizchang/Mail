@@ -80,6 +80,7 @@ mail/
 docs/            # Demo GIFs, screenshots
 README.md
 requirements.txt
+LICENSE
 ```
 
 ## License
